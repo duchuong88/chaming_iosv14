@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "424659713927",
+    "firebase_url": "https://chaming-skinlab-default-rtdb.firebaseio.com",
+    "project_id": "chaming-skinlab",
+    "storage_bucket": "chaming-skinlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424659713927:android:1a11a00b729fea74035d22",
+        "android_client_info": {
+          "package_name": "chaming.vn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI13NiU8ii5jjIAqp3RF3avqDiHcqIe00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
